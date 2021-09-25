@@ -1,0 +1,181 @@
+body {
+    background-image: url(img/fondoo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+      "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+      "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #ffffff;
+    text-align: center;
+    box-sizing: unset;
+  }
+  
+  .mt-5,
+  .my-5 {
+    margin-top: 80px !important;
+  }
+  
+  .text-muted {
+    color: #000000 !important;
+    background-color: #fff8f84f;
+    padding: 7px;
+    border-color: #02074180;
+    border-style: solid;
+    border-radius: 8px;
+  }
+  .hola {
+    text-align: left !important;
+    color: black;
+    background-color: #ff606d8e;
+    border-style: solid;
+    border-color: #000000de;
+    border-radius: 15px 35px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+  }
+  .container,
+  .container-md,
+  .container-sm {
+    max-width: 720px;
+    background-color: #081829ad;
+    border-style: solid;
+    border-color: #000000ab;
+    border-radius: 20px;
+    padding: 5px;
+    border-width: 7px;
+  }
+  .pl-4,
+  .px-4 {
+    padding-left: 1.5rem !important;
+    color: #ff606d8e;
+  }
+  .bg-dark {
+    background-color: #080b17d9 !important;
+  }
+  .navbar-dark .navbar-brand {
+    color: #ff606d8e;
+  }
+  .btn-outline-success {
+    color: #ffffff;
+    border-color: #ff606d8e;
+    background-color: #0000008a;
+    border-width: 2px;
+  }
+  a {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: transparent;
+  }
+  h3 {
+    color: black;
+  }
+  .hola {
+    text-align: left !important;
+    color: black;
+    background-color: #f7b8ff5e;
+  }
+  .holaa {
+    text-align: left !important;
+    color: black;
+    background-color: #ff606d8e;
+    border-style: solid;
+    border-color: #01040ee0;
+    border-radius: 15px 35px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    text-align: right !important;
+    color: black;
+    background-color: #ff606d8e;
+  }
+  .divv {
+    text-align: center;
+  }
+  .btn-outline-success:not(:disabled):not(.disabled).active,
+  .btn-outline-success:not(:disabled):not(.disabled):active,
+  .show > .btn-outline-success.dropdown-toggle {
+    color: #fff;
+    background-color: #32496b;
+    border-color: #ffffff;
+  }
+  .btn-outline-success.focus,
+  .btn-outline-success:focus {
+    box-shadow: 0 0 0 0.2rem rgba(187, 90, 184, 0.5);
+  }
+  .btn-outline-success:hover {
+    color: #fff;
+    background-color: #5f9ab3;
+    border-color: #ffffff;
+  }
+  .navbar-dark .navbar-brand {
+    color: #e475ff;
+  }
+  .btn-outline-success {
+    color: #ffffff;
+    border-color: #eb87f7b5;
+    background-color: #0000008a;
+    border-width: 2px;
+  }
+  .pl-4,
+  .px-4 {
+    padding-left: 1.5rem !important;
+    color: #fe8cff;
+  }
+  .pl-4,
+  .px-4 {
+    padding-left: 1.5rem !important;
+    color: #deffa0;
+  }
+  .btn-outline-success {
+    color: #ffffff;
+    border-color: #deffa0c4;
+    background-color: #0000008a;
+    border-width: 2px;
+  }
+  .navbar-dark .navbar-brand {
+    color: #deffa0;
+  }
+  .hola {
+    text-align: left !important;
+    color: black;
+    background-color: #eaffc152;
+  }
+  .text-muted {
+    color: #000000 !important;
+    background-color: #0517276b;
+    padding: 7px;
+    border-color: #000000a1;
+    border-style: solid;
+    border-radius: 8px;
+  }
+  .miau {
+    text-align: center;
+    align-items: center;
+    align-self: center;
+  }
+  .navbar-dark .navbar-brand {
+    color: #ff606d8e;
+  }
+  .btn-outline-success {
+    color: #ffffff;
+    border-color: #ff606d8e;
+    background-color: #0000008a;
+    border-width: 2px;
+  }
+  .pl-4,
+  .px-4 {
+    padding-left: 1.5rem !important;
+    color: #ff606d8e;
+  }
+  .hola {
+    text-align: left !important;
+    color: black;
+    background-color: #ff60dd8e;
+  }
+  
